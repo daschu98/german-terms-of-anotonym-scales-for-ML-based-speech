@@ -1,5 +1,7 @@
 
-## German Terms Used for the Antonym Scales
+## Analysis of the Perceptual Dimensions for Machine Learning Generated and Processed Speech
+
+These are the English translations used in the paper and their corresponding German translations used in the original study.
 
 | English        | German           |
 |----------------|------------------|
