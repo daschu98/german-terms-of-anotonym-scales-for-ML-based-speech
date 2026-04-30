@@ -1,5 +1,5 @@
 
-## corresponding german terms for used antonym scales
+## German Terms Used for the Antonym Scales
 
 | English        | German           |
 |----------------|------------------|
