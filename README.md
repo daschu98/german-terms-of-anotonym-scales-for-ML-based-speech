@@ -1,16 +1,19 @@
-# german-terms-of-anotonym-scales-for-ML-based-speech
 
-Noisiness - Rauschhaftigkeit
-Crackling - Knistern
-Distortion - Verzerrtheit
-Metallic - Metallisch
-Fullness - Klangfuelle
-Clarity - Klarheit
-Muffeld - Gedaempftheit
-Humanlike - Menschlich
-Naturalness - Natuerlichkeit
-Smoothness - Kontinuitaet
-Bumpiness - Holpernd
-Fluttering - Pulsierend
-Stress - Betonung
-Mispronunciation - Aussprache
+## corresponding german terms for used antonym scales
+
+| English        | German           |
+|----------------|------------------|
+| Noisiness      | Rauschhaftigkeit |
+| Crackling      | Knistern         |
+| Distortion     | Verzerrtheit     |
+| Metallic       | Metallisch       |
+| Fullness       | Klangfülle       |
+| Clarity        | Klarheit         |
+| Muffled        | Gedämpftheit     |
+| Humanlike      | Menschlich       |
+| Naturalness    | Natürlichkeit    |
+| Smoothness     | Kontinuität      |
+| Bumpiness      | Holpernd         |
+| Fluttering     | Pulsierend       |
+| Stress         | Betonung         |
+| Mispronunciation | Aussprache     |
